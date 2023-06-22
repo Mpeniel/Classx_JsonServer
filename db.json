@@ -1,0 +1,78 @@
+{
+  "activities": [
+    {
+      "id": "1",
+      "video_url": "https://www.naturepaysage.photo/wp-content/uploads/Nature-Paysage-portfolio-17-novembre-2019-0017-3.jpg",
+      "duration": "24:34",
+      "created_by": "openTuto",
+      "description": "Comment créer un faux serveur pour tester httpClient sur ionic 4",
+      "key_words": "ionic 4, server, json",
+      "category": "Dev mobile"
+    },
+    {
+      "id": "2",
+      "video_url": "https://www.radiofrance.fr/s3/cruiser-production/2022/06/5f6ac5ab-37d9-4ca6-8f79-3694fcfec071/560x315_paysage-monet.jpg",
+      "duration": "03:24",
+      "created_by": "openTuto",
+      "description": "Les services dans ionic 4",
+      "key_words": "ionic 4, service, Angular",
+      "category": "Dev mobile"
+    },
+    {
+      "id": "3",
+      "video_url": "https://www.sncf-connect.com/assets/media/2020-11/seinedanslesyvelines-istock-marcelloland.jpg",
+      "duration": "02:04",
+      "created_by": "openTuto",
+      "description": "page acceuil ionic 4",
+      "key_words": "ionic 4, service, Angular",
+      "category": "Dev mobile"
+    }
+  ],
+  "lta-list": [
+    {
+      "id": "057/12848614 /0001/-BA",
+      "description": "Moteur électrique",
+      "tags": [
+        "avi",
+        "toe"
+      ]
+    },
+    {
+      "id": "220/",
+      "description": "cannabis pharmaceutique",
+      "tags": [
+        "ecp",
+        "rhd",
+        "ps"
+      ]
+    },
+    {
+      "id": "059/12848616 BEY",
+      "description": "Aliments",
+      "tags": [
+        "crt*",
+        "badass"
+      ]
+    },
+    {
+      "id": "060/12848616 BUY",
+      "description": "Electronic",
+      "tags": [
+        "elt*",
+        "lta"
+      ]
+    }
+  ],
+  "traitement": {
+    "motifs": [
+      "fraction trop grande",
+      "Fret inaccessible",
+      "Fret non securisable en l'etat"
+    ],
+    "preconisations": [
+      "Espacer les colis",
+      "Présenter à l'odorologie",
+      "Utiliser un autre moyen de sécurisation"
+    ]
+  }
+}
